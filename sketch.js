@@ -85,7 +85,7 @@ function draw()
 {
     
     
-      background("black");
+      background(0,32);
       Engine.update(engine);
 
       fill("red");
